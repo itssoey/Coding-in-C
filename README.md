@@ -1,7 +1,7 @@
 # Coding-in-C
 
 
-// Sum of two numbers
+# Sum of two numbers
 
 #include <stdio.h>
 int main() {    
